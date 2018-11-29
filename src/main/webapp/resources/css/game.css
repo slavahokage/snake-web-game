@@ -1,0 +1,45 @@
+canvas {
+    background: black;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+}
+
+h3 {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav {
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-bottom: 15px;
+}
+
+#buttons a{
+    margin-left: 10px;
+}
+
+#snakeImg{
+    height: 300px;
+    width: 300px;
+}
+
+.edititem {
+    width: 33px;
+    height: 33px;
+    height: auto;
+    margin: 3px;
+    padding: 3px;
+}
+
+.edititem img {
+    max-width: 33px;
+    height: 33px;
+    border-radius: 100%;
+}
+
+.inline {
+    display: inline-block;
+}
+
