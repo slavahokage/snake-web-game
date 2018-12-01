@@ -13,7 +13,7 @@
 <head>
     <title>My results</title>
     <link rel="stylesheet" href="https://bootswatch.com/4/cosmo/bootstrap.min.css">
-    <link rel="stylesheet" href="${contextPath}/resources/css/for-image.css=">
+    <link rel="stylesheet" href="${contextPath}/resources/css/for-image.css">
 
 </head>
 <body>
