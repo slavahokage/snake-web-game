@@ -65,7 +65,7 @@
                 <td>${count+1}</td>
                 <td>${b.user.username}</td>
                 <td>${b.score}</td>
-                <td>${b.time}</td>
+                <td>${formatTime[count]}</td>
             </tr>
 
             <c:set var="count" value="${count=count+1}" scope="application"/>

@@ -118,6 +118,7 @@ public class UserController {
         ModelAndView mav = new ModelAndView("best-results");
         mav.addObject("user", currentUser);
         mav.addObject("bestResults", bestResults);
+        mav.addObject("formatTime", getFormatDates(bestResults));
         return mav;
     }
 
